@@ -1,6 +1,6 @@
 # T1_Consulting_Task
 
-1. Скачайте репозиторий с кодом с GitHub: https://github.com/username/repository
+1. Скачайте репозиторий с кодом с GitHub: https://github.com/StaticNur/T1_Consulting_Task.git
 2. Откройте проект в любой среде разработки, поддерживающей Java и Spring Boot (например, IntelliJ IDEA или Eclipse).
 3. Убедитесь, что у вас установлен JDK версии 8 или выше.
 4. Исправьте любые конфигурационные параметры, если необходимо, в файле application.properties.
